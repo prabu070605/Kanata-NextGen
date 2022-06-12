@@ -3,7 +3,7 @@
 ### Hi there 👋 I'm RaykujanK13.
 
 - 🔭 I’m currently working on a Discord BOTs.
-- ⚡ Support Host only Glitch.com
+- ⚡ Support All Host
 - 🌱 I’m currently learning stuff.
 - 💬 Ask me about nothing.
 - 📫 How to reach me: No.
